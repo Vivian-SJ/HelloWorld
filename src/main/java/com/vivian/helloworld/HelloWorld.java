@@ -13,6 +13,6 @@ public class HelloWorld {
 
     @GetMapping("/greeting")
     public String greeting() {
-        return "Hello, world!";
+        return "Hello, world2!";
     }
 }
